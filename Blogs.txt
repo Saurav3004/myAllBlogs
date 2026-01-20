@@ -1,2 +1,3 @@
 1. MY GIT BLOGS LINK :
 https://git-for-beginners-and-essential-commands.hashnode.dev/git-for-beginners-basics-and-essential-commands
+https://git-for-beginners-and-essential-commands.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder
