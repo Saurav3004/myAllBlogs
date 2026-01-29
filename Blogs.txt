@@ -6,9 +6,7 @@ https://git-for-beginners-and-essential-commands.hashnode.dev/why-version-contro
 
 2. MY DNS BLOGS LINK :
 https://dns-blog.hashnode.dev/understanding-dns-and-the-dig-command-a-complete-guide-to-dns-resolution
-
-3. BROWSER INTERNALS LINK :
---> PENDING....
+https://dns-blog.hashnode.dev/understanding-network-devices
 
 4. MY HTML RESUME LINK :
 https://rawresume.netlify.app/
